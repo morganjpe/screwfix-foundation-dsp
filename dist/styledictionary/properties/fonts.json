@@ -111,6 +111,102 @@
       "weight": {
         "value": "Regular"
       }
+    },
+    "body_copy_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "file_upload_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "character_count_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "landingpage_header_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "question_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "hint_info_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "type_here_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "answer_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "step_header_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "go_back_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "go_forward_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "declined_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
     }
   },
   "size": {
@@ -155,6 +251,42 @@
         "value": "38"
       },
       "character_count": {
+        "value": "16"
+      },
+      "body_copy_mb": {
+        "value": "20"
+      },
+      "file_upload_mb": {
+        "value": "24"
+      },
+      "character_count_mb": {
+        "value": "14"
+      },
+      "landingpage_header_mb": {
+        "value": "34"
+      },
+      "question_mb": {
+        "value": "26"
+      },
+      "hint_info_mb": {
+        "value": "16"
+      },
+      "type_here_mb": {
+        "value": "24"
+      },
+      "answer_mb": {
+        "value": "24"
+      },
+      "step_header_mb": {
+        "value": "16"
+      },
+      "go_back_mb": {
+        "value": "16"
+      },
+      "go_forward_mb": {
+        "value": "22"
+      },
+      "declined_mb": {
         "value": "16"
       }
     }

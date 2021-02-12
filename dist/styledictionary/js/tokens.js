@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 12 Feb 2021 09:45:25 GMT
+ * Generated on Fri, 12 Feb 2021 18:05:35 GMT
  */
 
 export const SfRed = "#ed1c24";
@@ -41,6 +41,30 @@ export const QuestionFamily = "Screwfix";
 export const QuestionWeight = "Bold";
 export const CharacterCountFamily = "Screwfix";
 export const CharacterCountWeight = "Regular";
+export const BodyCopyMbFamily = "Screwfix";
+export const BodyCopyMbWeight = "Regular";
+export const FileUploadMbFamily = "Screwfix";
+export const FileUploadMbWeight = "Regular";
+export const CharacterCountMbFamily = "Screwfix";
+export const CharacterCountMbWeight = "Regular";
+export const LandingpageHeaderMbFamily = "Screwfix";
+export const LandingpageHeaderMbWeight = "Bold";
+export const QuestionMbFamily = "Screwfix";
+export const QuestionMbWeight = "Bold";
+export const HintInfoMbFamily = "Screwfix";
+export const HintInfoMbWeight = "Regular";
+export const TypeHereMbFamily = "Screwfix";
+export const TypeHereMbWeight = "Regular";
+export const AnswerMbFamily = "Screwfix";
+export const AnswerMbWeight = "Regular";
+export const StepHeaderMbFamily = "Screwfix";
+export const StepHeaderMbWeight = "Regular";
+export const GoBackMbFamily = "Screwfix";
+export const GoBackMbWeight = "Regular";
+export const GoForwardMbFamily = "Screwfix";
+export const GoForwardMbWeight = "Regular";
+export const DeclinedMbFamily = "Screwfix";
+export const DeclinedMbWeight = "Regular";
 export const LandingpageHeaderSize = "44rem";
 export const BodyCopySize = "24rem";
 export const AlreadyRegisteredSize = "16rem";
@@ -55,3 +79,15 @@ export const TypeHereSize = "34rem";
 export const AnswerSize = "34rem";
 export const QuestionSize = "38rem";
 export const CharacterCountSize = "16rem";
+export const BodyCopyMbSize = "20rem";
+export const FileUploadMbSize = "24rem";
+export const CharacterCountMbSize = "14rem";
+export const LandingpageHeaderMbSize = "34rem";
+export const QuestionMbSize = "26rem";
+export const HintInfoMbSize = "16rem";
+export const TypeHereMbSize = "24rem";
+export const AnswerMbSize = "24rem";
+export const StepHeaderMbSize = "16rem";
+export const GoBackMbSize = "16rem";
+export const GoForwardMbSize = "22rem";
+export const DeclinedMbSize = "16rem";
