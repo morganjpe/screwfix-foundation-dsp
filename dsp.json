@@ -30,7 +30,7 @@
       },
       {
         "label": "CSS",
-        "export_tokens": true,
+        "export_tokens": false,
         "snippet_id": "css",
         "syntax": "text/css",
         "ext-com_adobe_xd-styledictionary_id": "css"

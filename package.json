@@ -1,0 +1,13 @@
+{
+  "name": "screwfix-foundation-dsp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/morganjpe/screwfix-foundation-dsp",
+    "type": "git"
+  },
+  "dependencies": {
+    "style-dictionary": "^2.10.2"
+  }
+}
