@@ -1,0 +1,277 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2021-02-12T09:24:01.590Z",
+  "entities": [
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "5be72afa-e92d-435a-9842-cc31748ea36e",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "100_spacer",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "01b11f80-d54b-44ac-8690-916f1559fe49",
+        "last_sync": "2021-02-12T09:24:01.589Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "0d355d1e-2384-488e-8956-5b31db094850",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "10_spacer",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "9402ccfc-8e2e-4c59-a123-ca75a1b5c2fc",
+        "last_sync": "2021-02-12T09:24:01.590Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "34dc7e61-f8e5-4756-8a6d-733d8420addd",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "20_spacer",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "16ca4c1a-d000-4332-9e02-a307dab367d8",
+        "last_sync": "2021-02-12T09:24:01.590Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "bdde5725-6f2a-45c2-84af-427593041c65",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "25_spacer",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "0eb3c16d-af8e-4090-bebd-78222ce6dea4",
+        "last_sync": "2021-02-12T09:24:01.590Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "d55db9cf-9766-47b9-8cd7-d8d29c5ec75c",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "30_spacer",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "862b90fb-1d81-4570-8117-974b949732f1",
+        "last_sync": "2021-02-12T09:24:01.589Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "0729f15e-a07d-4b61-9e2a-9d99bd023e43",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "40_spacer",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "13f249e8-81bc-44d6-b72e-01057239896a",
+        "last_sync": "2021-02-12T09:24:01.589Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "9a6691bc-fcad-4cb2-b18f-7a6cdd0a1b95",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "60_spacer",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "a7efbac5-0268-4ed3-ab2a-5163cf26d4d7",
+        "last_sync": "2021-02-12T09:24:01.589Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "fa729837-1da3-4106-a466-f9188a7b7e38",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "70_spacer",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "15a1ba21-deec-4bdc-81ca-dafd08c965a5",
+        "last_sync": "2021-02-12T09:24:01.589Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "d092e204-3947-434c-93b6-8e61c5be82ec",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "green_line",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "04cf56e9-d814-45bf-a712-c0259f6b0e55",
+        "last_sync": "2021-02-12T09:24:01.590Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "905eacd6-1bcd-4850-a478-97194d7cd936",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "isometric_house",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "aa114799-f4d9-483d-8c46-0ca21b47d912",
+        "last_sync": "2021-02-12T09:24:01.589Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "df6fe021-9602-43b3-aa3a-7586189976bc",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "next",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "c7dc7240-51a9-44a4-bb8c-efedee7dc0be",
+        "last_sync": "2021-02-12T09:24:01.590Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "a4494067-ea66-4b59-9a4e-330cf7d47d01",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "no_button",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "be8a2957-2793-4b7f-b850-c214e0ba5c1b",
+        "last_sync": "2021-02-12T09:24:01.589Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "96591f2d-4543-4018-8656-2f055ddb438d",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "progress_bar",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "686c8cc8-1dd8-4a06-8eb2-20e910d7e667",
+        "last_sync": "2021-02-12T09:24:01.590Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "35fe8c1f-47a1-4589-b3e2-9ed8407f94dd",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "sf_foundation_logo",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "ae183cda-10db-4da8-a317-dce3ad18771d",
+        "last_sync": "2021-02-12T09:24:01.589Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "06ea47ab-adf0-4de1-944d-24de31e90c5d",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "yes_button",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "cfdb5388-44e6-44cb-86a7-a1e09ed25364",
+        "last_sync": "2021-02-12T09:24:01.590Z",
+        "sync": true
+      }
+    }
+  ]
+}

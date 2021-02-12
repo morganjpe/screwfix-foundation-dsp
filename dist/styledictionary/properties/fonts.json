@@ -1,0 +1,162 @@
+{
+  "font": {
+    "landingpage_header": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "body_copy": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "already_registered": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "file_upload": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "log_in_register_now": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "hint_info": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "step_header": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "declined": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "go_back": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "go_forward": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "type_here": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "answer": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "question": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "character_count": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "landingpage_header": {
+        "value": "44"
+      },
+      "body_copy": {
+        "value": "24"
+      },
+      "already_registered": {
+        "value": "16"
+      },
+      "file_upload": {
+        "value": "34"
+      },
+      "log_in_register_now": {
+        "value": "18"
+      },
+      "hint_info": {
+        "value": "14"
+      },
+      "step_header": {
+        "value": "20"
+      },
+      "declined": {
+        "value": "20"
+      },
+      "go_back": {
+        "value": "20"
+      },
+      "go_forward": {
+        "value": "28"
+      },
+      "type_here": {
+        "value": "34"
+      },
+      "answer": {
+        "value": "34"
+      },
+      "question": {
+        "value": "38"
+      },
+      "character_count": {
+        "value": "16"
+      }
+    }
+  }
+}

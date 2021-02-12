@@ -1,0 +1,9 @@
+<svg id="yes_button" xmlns="http://www.w3.org/2000/svg" width="111" height="45" viewBox="0 0 111 45">
+  <g id="Group_177" data-name="Group 177" transform="translate(-244 -379)">
+    <g id="Rectangle_21" data-name="Rectangle 21" transform="translate(244 379)" fill="#fff" stroke="#51ae32" stroke-width="6">
+      <rect width="45" height="45" rx="22.5" stroke="none"/>
+      <rect x="3" y="3" width="39" height="39" rx="19.5" fill="none"/>
+    </g>
+    <text id="Yes" transform="translate(304 414)" fill="#1c1c1c" font-size="38" font-family="Screwfix-Bold, Screwfix" font-weight="700"><tspan x="0" y="0">Yes</tspan></text>
+  </g>
+</svg>
