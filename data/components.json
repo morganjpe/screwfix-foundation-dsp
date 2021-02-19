@@ -133,6 +133,24 @@
       "class": "component",
       "type": "page",
       "tags": [],
+      "id": "4fe91c3f-fc8c-4f67-8de4-352721b06eaa",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "50_spacer",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "986c8afd-488d-41f4-81d8-24294a8e66f8",
+        "last_sync": "2021-02-19T14:37:38.016Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
       "id": "9a6691bc-fcad-4cb2-b18f-7a6cdd0a1b95",
       "related_entity_ids": [],
       "snippets": {
@@ -241,6 +259,24 @@
       "class": "component",
       "type": "page",
       "tags": [],
+      "id": "602eec2e-7ab0-42b7-92f7-022fe5746668",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "next_mb",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "debbe7ba-83fd-4136-8f3b-ee2b0717b39e",
+        "last_sync": "2021-02-19T14:37:38.016Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
       "id": "a4494067-ea66-4b59-9a4e-330cf7d47d01",
       "related_entity_ids": [],
       "snippets": {
@@ -270,6 +306,24 @@
         "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
         "id": "b4022679-1601-42f3-8e96-a4cd476dfa9d",
         "last_sync": "2021-02-12T18:05:23.056Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "44481d41-12fa-4ebd-aad8-263136023abe",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "no_button_mb",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "86903ce0-b18d-4ca2-b3a9-739b5a79cd94",
+        "last_sync": "2021-02-19T14:37:38.016Z",
         "sync": true
       }
     },
@@ -342,6 +396,24 @@
         "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
         "id": "b0ad974b-386b-478d-82fd-e927a697f079",
         "last_sync": "2021-02-12T18:05:23.056Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "c37f7a68-786e-4e75-b0d1-c7e8a24ef16e",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "yes_button_mb",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d54eb90-1595-486f-40bb-5b5dd94ecfb6",
+        "id": "0d8f7265-23db-4346-809d-cda3444a02c7",
+        "last_sync": "2021-02-19T14:37:38.016Z",
         "sync": true
       }
     }

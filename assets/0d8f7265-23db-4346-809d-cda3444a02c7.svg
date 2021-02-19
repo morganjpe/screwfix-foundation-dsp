@@ -1,0 +1,7 @@
+<svg id="yes_button_mb" xmlns="http://www.w3.org/2000/svg" width="88" height="38" viewBox="0 0 88 38">
+  <g id="Rectangle_21" data-name="Rectangle 21" fill="#fff" stroke="#2d3c28" stroke-width="6">
+    <rect width="38" height="38" rx="19" stroke="none"/>
+    <rect x="3" y="3" width="32" height="32" rx="16" fill="none"/>
+  </g>
+  <text id="Yes" transform="translate(48 29)" fill="#1c1c1c" font-size="30" font-family="Screwfix-Bold, Screwfix" font-weight="700"><tspan x="0" y="0">Yes</tspan></text>
+</svg>
