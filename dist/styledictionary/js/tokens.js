@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Feb 2021 14:37:20 GMT
+ * Generated on Thu, 25 Feb 2021 09:06:28 GMT
  */
 
 export const SfRed = "#ed1c24";
@@ -12,7 +12,7 @@ export const SfFoundationBlack = "#1c1c1c";
 export const SfFoundationGreenTint = "#e1ede2";
 export const SfFoundationBlue = "#25b4e2";
 export const SfFoundationYellow = "#ffed00";
-export const SfFoundationGreen = "#181a17";
+export const SfFoundationGreen = "#51ae32";
 export const LandingpageHeaderFamily = "Screwfix";
 export const LandingpageHeaderWeight = "Bold";
 export const BodyCopyFamily = "Screwfix";
