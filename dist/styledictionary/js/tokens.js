@@ -1,12 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Thu, 25 Feb 2021 09:06:28 GMT
+ * Generated on Thu, 04 Mar 2021 11:14:29 GMT
  */
 
 export const SfRed = "#ed1c24";
 export const SfBlue = "#0053a0";
-export const SfFoundationDarkgrey = "#696969";
-export const SfFoundationLightgrey = "#bfbfbf";
+export const SfFoundationDarkgrey = "#767676";
+export const SfFoundationLightgrey = "#949494";
 export const SfFoundationWhite = "#ffffff";
 export const SfFoundationBlack = "#1c1c1c";
 export const SfFoundationGreenTint = "#e1ede2";
@@ -65,6 +65,20 @@ export const GoForwardMbFamily = "Screwfix";
 export const GoForwardMbWeight = "Regular";
 export const DeclinedMbFamily = "Screwfix";
 export const DeclinedMbWeight = "Regular";
+export const QuestionDisabledMbFamily = "Screwfix";
+export const QuestionDisabledMbWeight = "Bold";
+export const DropdownSuggestionsMbFamily = "Screwfix";
+export const DropdownSuggestionsMbWeight = "Regular";
+export const RequiredFamily = "Screwfix";
+export const RequiredWeight = "Regular";
+export const DropdownSuggestionsFocusMbFamily = "Screwfix";
+export const DropdownSuggestionsFocusMbWeight = "Regular";
+export const QuestionDisabledFamily = "Screwfix";
+export const QuestionDisabledWeight = "Bold";
+export const DropdownSuggestionsFocusFamily = "Screwfix";
+export const DropdownSuggestionsFocusWeight = "Regular";
+export const DropdownSuggestionsFamily = "Screwfix";
+export const DropdownSuggestionsWeight = "Regular";
 export const LandingpageHeaderSize = "44rem";
 export const BodyCopySize = "24rem";
 export const AlreadyRegisteredSize = "16rem";
@@ -85,9 +99,16 @@ export const CharacterCountMbSize = "14rem";
 export const LandingpageHeaderMbSize = "34rem";
 export const QuestionMbSize = "26rem";
 export const HintInfoMbSize = "16rem";
-export const TypeHereMbSize = "24rem";
-export const AnswerMbSize = "24rem";
+export const TypeHereMbSize = "20rem";
+export const AnswerMbSize = "20rem";
 export const StepHeaderMbSize = "16rem";
 export const GoBackMbSize = "16rem";
-export const GoForwardMbSize = "22rem";
+export const GoForwardMbSize = "20rem";
 export const DeclinedMbSize = "16rem";
+export const QuestionDisabledMbSize = "26rem";
+export const DropdownSuggestionsMbSize = "16rem";
+export const RequiredSize = "34rem";
+export const DropdownSuggestionsFocusMbSize = "16rem";
+export const QuestionDisabledSize = "38rem";
+export const DropdownSuggestionsFocusSize = "28rem";
+export const DropdownSuggestionsSize = "28rem";

@@ -207,6 +207,62 @@
       "weight": {
         "value": "Regular"
       }
+    },
+    "question_disabled_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "dropdown_suggestions_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "required": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "dropdown_suggestions_focus_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "question_disabled": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "dropdown_suggestions_focus": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "dropdown_suggestions": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
     }
   },
   "size": {
@@ -272,10 +328,10 @@
         "value": "16"
       },
       "type_here_mb": {
-        "value": "24"
+        "value": "20"
       },
       "answer_mb": {
-        "value": "24"
+        "value": "20"
       },
       "step_header_mb": {
         "value": "16"
@@ -284,10 +340,31 @@
         "value": "16"
       },
       "go_forward_mb": {
-        "value": "22"
+        "value": "20"
       },
       "declined_mb": {
         "value": "16"
+      },
+      "question_disabled_mb": {
+        "value": "26"
+      },
+      "dropdown_suggestions_mb": {
+        "value": "16"
+      },
+      "required": {
+        "value": "34"
+      },
+      "dropdown_suggestions_focus_mb": {
+        "value": "16"
+      },
+      "question_disabled": {
+        "value": "38"
+      },
+      "dropdown_suggestions_focus": {
+        "value": "28"
+      },
+      "dropdown_suggestions": {
+        "value": "28"
       }
     }
   }

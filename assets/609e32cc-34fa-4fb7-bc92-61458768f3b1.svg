@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="649.207" height="21" viewBox="0 0 649.207 21">
-  <g id="back" transform="translate(1.4 1)">
-    <text id="back-2" data-name="back" transform="translate(13.806)" fill="#696969" font-size="20" font-family="Screwfix-Regular, Screwfix" text-decoration="underline"><tspan x="0" y="15">back</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="649.207" height="23" viewBox="0 0 649.207 23">
+  <g id="back" transform="translate(1.4)">
+    <text id="back-2" data-name="back" transform="translate(13.806)" fill="#1c1c1c" font-size="20" font-family="Screwfix-Regular, Screwfix" text-decoration="underline"><tspan x="0" y="18">back</tspan></text>
     <g id="Group_1" data-name="Group 1" transform="translate(-19.979 -12.02)">
-      <path id="Path_3" data-name="Path 3" d="M5.563,0,0,5.361l5.563,6" transform="translate(19.979 14.5)" fill="none" stroke="#696969" stroke-linecap="round" stroke-width="2"/>
+      <path id="Path_3" data-name="Path 3" d="M5.563,0,0,5.361l5.563,6" transform="translate(19.979 14.5)" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-width="2"/>
     </g>
   </g>
 </svg>
