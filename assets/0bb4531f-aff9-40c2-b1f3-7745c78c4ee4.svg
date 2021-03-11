@@ -1,11 +1,11 @@
 <svg id="hint_info_mobile" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="290" height="20" viewBox="0 0 290 20">
   <defs>
     <clipPath id="clip-path">
-      <path id="Path_31" data-name="Path 31" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(285 158)" fill="#51ae32"/>
+      <path id="Path_31" data-name="Path 31" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(285 158)" fill="#a432ae"/>
     </clipPath>
   </defs>
   <g id="Mask_Group_13" data-name="Mask Group 13" transform="translate(-15 -158)" clip-path="url(#clip-path)">
-    <path id="Path_30" data-name="Path 30" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(285 158)" fill="#51ae32"/>
+    <path id="Path_30" data-name="Path 30" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(285 158)" fill="#a432ae"/>
     <text id="i" transform="translate(292 174)" fill="#fff" font-size="19" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-weight="700" font-style="italic"><tspan x="0" y="0">i</tspan></text>
   </g>
   <rect id="Rectangle_50" data-name="Rectangle 50" width="266" height="3" transform="translate(0 7)" fill="none"/>
