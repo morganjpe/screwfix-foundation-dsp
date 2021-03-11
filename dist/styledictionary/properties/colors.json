@@ -1,34 +1,34 @@
 {
   "color": {
-    "sf_red": {
-      "value": "#ED1C24ff"
+    "sf_foundation_green": {
+      "value": "#51AE3202"
     },
     "sf_blue": {
-      "value": "#0053A0ff"
-    },
-    "sf_foundation_darkgrey": {
-      "value": "#767676ff"
+      "value": "#0053A002"
     },
     "sf_foundation_lightgrey": {
-      "value": "#949494ff"
+      "value": "#94949402"
+    },
+    "sf_red": {
+      "value": "#ED1C2402"
+    },
+    "sf_foundation_darkgrey": {
+      "value": "#76767602"
     },
     "sf_foundation_white": {
-      "value": "#FFFFFFff"
+      "value": "#FFFFFF02"
     },
     "sf_foundation_black": {
-      "value": "#1C1C1Cff"
-    },
-    "sf_foundation_green_tint": {
-      "value": "#E1EDE2ff"
-    },
-    "sf_foundation_blue": {
-      "value": "#25B4E2ff"
+      "value": "#1C1C1C02"
     },
     "sf_foundation_yellow": {
-      "value": "#FFED00ff"
+      "value": "#FFED0002"
     },
-    "sf_foundation_green": {
-      "value": "#51AE32ff"
+    "sf_foundation_green_tint": {
+      "value": "#E1EDE202"
+    },
+    "sf_foundation_blue": {
+      "value": "#25B4E202"
     }
   }
 }

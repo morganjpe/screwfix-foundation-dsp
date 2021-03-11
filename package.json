@@ -8,6 +8,9 @@
     "type": "git"
   },
   "dependencies": {
-    "style-dictionary": "^2.10.2"
+    "style-dictionary": "^2.10.3"
+  },
+  "scripts": {
+    "push": "git add . && git commit -m '${npm_config_m}' && git push -u origin master"
   }
 }
