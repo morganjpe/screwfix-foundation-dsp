@@ -1,9 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Thu, 11 Mar 2021 07:30:43 GMT
+ * Generated on Thu, 11 Mar 2021 07:39:19 GMT
  */
 
-export const SfFoundationGreen = "#a432ae";
+export const SfFoundationGreen = "#51ae32";
 export const SfBlue = "#0053a0";
 export const SfFoundationLightgrey = "#949494";
 export const SfRed = "#ed1c24";
