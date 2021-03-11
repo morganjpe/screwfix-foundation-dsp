@@ -11,6 +11,6 @@
     "style-dictionary": "^2.10.3"
   },
   "scripts": {
-    "push": "git add . && git commit -m '${npm_config_m}' && git push -u origin master"
+    "git": "git add . && git commit -m '${npm_config_m}' && git push -u origin master"
   }
 }
