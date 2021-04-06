@@ -247,6 +247,22 @@
       "weight": {
         "value": "Bold"
       }
+    },
+    "question_tb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "answer_tb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
     }
   },
   "size": {
@@ -343,6 +359,12 @@
       },
       "question": {
         "value": "38"
+      },
+      "question_tb": {
+        "value": "30"
+      },
+      "answer_tb": {
+        "value": "26"
       }
     }
   }
