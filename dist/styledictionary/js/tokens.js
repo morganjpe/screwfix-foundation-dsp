@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 06 Apr 2021 08:33:49 GMT
+ * Generated on Thu, 08 Apr 2021 11:36:53 GMT
  */
 
 export const SfFoundationGreen = "#51ae32";
@@ -79,6 +79,8 @@ export const QuestionTbFamily = "Screwfix";
 export const QuestionTbWeight = "Bold";
 export const AnswerTbFamily = "Screwfix";
 export const AnswerTbWeight = "Regular";
+export const StepHeaderFamily = "Screwfix";
+export const StepHeaderWeight = "Regular";
 export const QuestionDisabledMbSize = "26rem";
 export const DropdownSuggestionsSize = "28rem";
 export const FileUploadMbSize = "24rem";
@@ -112,3 +114,4 @@ export const HintInfoSize = "14rem";
 export const QuestionSize = "38rem";
 export const QuestionTbSize = "30rem";
 export const AnswerTbSize = "26rem";
+export const StepHeaderSize = "20rem";

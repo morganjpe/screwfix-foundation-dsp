@@ -263,6 +263,14 @@
       "weight": {
         "value": "Regular"
       }
+    },
+    "step_header": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
     }
   },
   "size": {
@@ -365,6 +373,9 @@
       },
       "answer_tb": {
         "value": "26"
+      },
+      "step_header": {
+        "value": "20"
       }
     }
   }
