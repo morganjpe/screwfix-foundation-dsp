@@ -1,0 +1,7 @@
+<svg id="no_button_tb" xmlns="http://www.w3.org/2000/svg" width="82" height="38" viewBox="0 0 82 38">
+  <g id="Rectangle_6" data-name="Rectangle 6" fill="#fff" stroke="#51ae32" stroke-width="6">
+    <rect width="38" height="38" rx="19" stroke="none"/>
+    <rect x="3" y="3" width="32" height="32" rx="16" fill="none"/>
+  </g>
+  <text id="No" transform="translate(48 29)" fill="#1c1c1c" font-size="30" font-family="Screwfix-Bold, Screwfix" font-weight="700"><tspan x="0" y="0">No</tspan></text>
+</svg>

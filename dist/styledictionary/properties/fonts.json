@@ -271,6 +271,86 @@
       "weight": {
         "value": "Regular"
       }
+    },
+    "address": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "address_tb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "address_mb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "file_upload_tb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "question_disabled_tb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "dropdown_suggestions_focus_tb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "dropdown_suggestions_tb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "hint_info_tb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "type_here_tb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "landingpage_header_tb": {
+      "family": {
+        "value": "Screwfix"
+      },
+      "weight": {
+        "value": "Bold"
+      }
     }
   },
   "size": {
@@ -376,6 +456,36 @@
       },
       "step_header": {
         "value": "20"
+      },
+      "address": {
+        "value": "26"
+      },
+      "address_tb": {
+        "value": "22"
+      },
+      "address_mb": {
+        "value": "18"
+      },
+      "file_upload_tb": {
+        "value": "26"
+      },
+      "question_disabled_tb": {
+        "value": "30"
+      },
+      "dropdown_suggestions_focus_tb": {
+        "value": "22"
+      },
+      "dropdown_suggestions_tb": {
+        "value": "22"
+      },
+      "hint_info_tb": {
+        "value": "12"
+      },
+      "type_here_tb": {
+        "value": "26"
+      },
+      "landingpage_header_tb": {
+        "value": "36"
       }
     }
   }

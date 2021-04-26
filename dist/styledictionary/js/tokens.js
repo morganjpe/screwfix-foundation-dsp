@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 08 Apr 2021 11:36:53 GMT
+ * Generated on Mon, 26 Apr 2021 13:43:41 GMT
  */
 
 export const SfFoundationGreen = "#51ae32";
@@ -81,6 +81,26 @@ export const AnswerTbFamily = "Screwfix";
 export const AnswerTbWeight = "Regular";
 export const StepHeaderFamily = "Screwfix";
 export const StepHeaderWeight = "Regular";
+export const AddressFamily = "Screwfix";
+export const AddressWeight = "Bold";
+export const AddressTbFamily = "Screwfix";
+export const AddressTbWeight = "Bold";
+export const AddressMbFamily = "Screwfix";
+export const AddressMbWeight = "Bold";
+export const FileUploadTbFamily = "Screwfix";
+export const FileUploadTbWeight = "Regular";
+export const QuestionDisabledTbFamily = "Screwfix";
+export const QuestionDisabledTbWeight = "Bold";
+export const DropdownSuggestionsFocusTbFamily = "Screwfix";
+export const DropdownSuggestionsFocusTbWeight = "Regular";
+export const DropdownSuggestionsTbFamily = "Screwfix";
+export const DropdownSuggestionsTbWeight = "Regular";
+export const HintInfoTbFamily = "Screwfix";
+export const HintInfoTbWeight = "Regular";
+export const TypeHereTbFamily = "Screwfix";
+export const TypeHereTbWeight = "Regular";
+export const LandingpageHeaderTbFamily = "Screwfix";
+export const LandingpageHeaderTbWeight = "Bold";
 export const QuestionDisabledMbSize = "26rem";
 export const DropdownSuggestionsSize = "28rem";
 export const FileUploadMbSize = "24rem";
@@ -115,3 +135,13 @@ export const QuestionSize = "38rem";
 export const QuestionTbSize = "30rem";
 export const AnswerTbSize = "26rem";
 export const StepHeaderSize = "20rem";
+export const AddressSize = "26rem";
+export const AddressTbSize = "22rem";
+export const AddressMbSize = "18rem";
+export const FileUploadTbSize = "26rem";
+export const QuestionDisabledTbSize = "30rem";
+export const DropdownSuggestionsFocusTbSize = "22rem";
+export const DropdownSuggestionsTbSize = "22rem";
+export const HintInfoTbSize = "12rem";
+export const TypeHereTbSize = "26rem";
+export const LandingpageHeaderTbSize = "36rem";
